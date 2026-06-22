@@ -1,0 +1,21 @@
+{
+  "Objects":
+  [
+
+    {
+      "ATIVIDADE": "ZEPPELIN",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1wVsEm35q2bwglGL6DBXgQ7rTy7G_L3YX",
+      "MovementType": "Orbit",
+      "OrbitRadius": 800,
+      "OrbitSpeed": -2,
+      "OrbitTilt": 20,
+      "HeightOffset": 0,
+      "EarthPosition": {
+        "Latitude": -22.71746480800222, 
+        "Longitude":-45.56584300430006,
+        "Altitude": 2100
+      }
+    }
+
+  ]
+}

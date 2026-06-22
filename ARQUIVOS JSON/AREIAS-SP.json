@@ -1,0 +1,266 @@
+{
+  "Objects": [
+    {
+      "ATIVIDADE": "CAMARA-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1O_Ctv4m_E_lCv4IIgFP7XfSkRPLCCMuf",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.581071978195844,
+        "Longitude": -44.694073457115806,
+        "Altitude": 518
+      }
+    },
+    {
+      "ATIVIDADE": "Rancho Tropeiro",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1lGfOwrROmDBjZnkD5nOrhgMcCcqNVQgF",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.581020765596335,
+        "Longitude": -44.695518056261015,
+        "Altitude": 524
+      }
+    },
+    {
+      "ATIVIDADE": "HOSPITAL-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1jt_VqOWzdy4eBqrZTs9hNd6YQLusP9d4",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580728313323423,
+        "Longitude": -44.6957646153208,
+        "Altitude": 523
+      }
+    },
+    {
+      "ATIVIDADE": "GUIDO-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1r17LEgFJOVcgL7ql0498DyubAa2uddHI",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580685453740404,
+        "Longitude": -44.69614274460945,
+        "Altitude": 525
+      }
+    },
+    {
+      "ATIVIDADE": "PRAÇA-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1gAOG7DX0CT5ow-L75zJxDWl4AUQfdOD7",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.58082333499821,
+        "Longitude": -44.696937224720585,
+        "Altitude": 528
+      }
+    },
+    {
+      "ATIVIDADE": "IGREJA-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1ACozNUiABC71pLJ-b5q3fcnbRtPSrL0S",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580575299701852,
+        "Longitude": -44.697181152170025,
+        "Altitude": 527
+      }
+    },
+    {
+      "ATIVIDADE": "HOTEL-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1-dLWmA0CGK08fWL0K2iXL50e6DT664w6",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580629554541353,
+        "Longitude": -44.69671493937497,
+        "Altitude": 526.5
+      }
+    },
+    {
+      "ATIVIDADE": "CASA NETO-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1LgZxg9rzIWHZBWV5_Jg8X2O7Cexd_LaS",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.58075856870048,
+        "Longitude": -44.69717069236823,
+        "Altitude": 529
+      }
+    },
+    {
+      "ATIVIDADE": "CASA DA CULTURA-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1nZDXMNVMKC2dPxYWtROgNZXcSJGcGUl_",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580599668675987,
+        "Longitude": -44.69903638794336,
+        "Altitude": 526
+      }
+    },
+    {
+      "ATIVIDADE": "CADA DE CULTURA-2",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1jqiIJx7ThmN_zCcjsLu5qedPWs7oOWM8",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580359282143217,
+        "Longitude": -44.699050514939024,
+        "Altitude": 527
+      }
+    },
+    {
+      "ATIVIDADE": "CASA DONA JU",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=12NRVmeMm1LQL6lcbeOCLeYzWWT7Dxpz1",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.58140472210504,
+        "Longitude": -44.69954954877198,
+        "Altitude": 528
+      }
+    },
+    {
+      "ATIVIDADE": "IGREJA LOBATO HOTEL-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=122IZzSbvC4eeTVMj6YdIAxXrxnpOM3rr",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580583685720715,
+        "Longitude": -44.69696826109412,
+        "Altitude": 526
+      }
+    },
+    {
+      "ATIVIDADE": "Igreja Boa Morte",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=12FwHq87UgLRm2nfLm_bJ_axPmb85lYEc",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580435993051918,
+        "Longitude": -44.69973348427142,
+        "Altitude": 523
+      }
+    },
+    {
+      "ATIVIDADE": "DesenhoLobato 1909",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1WD9iN3Uj-UnF1Xq6HfzgDYcsw2fErls7",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.57900469368232,
+        "Longitude": -44.69685467157845,
+        "Altitude": 520
+      }
+    },
+    {
+      "ATIVIDADE": "Soldados_Paulistas-3",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1Y3SO5WF2mWyrR5SlPMolbQ1j0ziXCG5M",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.581149755920674,
+        "Longitude": -44.698604760006006,
+        "Altitude": 532
+      }
+    },
+    {
+      "ATIVIDADE": "ROBO PAI",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=12zetsNDakrWtyP28sIa8UOFKt3C8wsM_",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.5784334536196,
+        "Longitude": -44.696848904313306,
+        "Altitude": 529
+      }
+    },
+    {
+      "ATIVIDADE": "TESTE TEARSFORFEARS",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1zgR3jTOuD5WBaaC57n2X91Jtqan-m0_o",
+      "MovementType": "Static",
+      "VideoURL": "https://drive.google.com/uc?export=download&id=16ea45yR4AD_vlIIx0nPFcy4_0SLlNyRb",
+      "Is360Video": false,
+      "EarthPosition": {
+        "Latitude": -22.577206222266998,
+        "Longitude": -44.69504317443685,
+        "Altitude": 650
+      }
+    },
+    {
+      "ATIVIDADE": "Santana dos Tocos",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1wgi7pP5a0FnnoTGqTjuaeQtHzGwIKsNG",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.579716715188766,
+        "Longitude": -44.69773572110492,
+        "Altitude": 522
+      }
+    },
+    {
+      "ATIVIDADE": "PlanoTeste",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1TN1lkNX7k-2y3B4vBrZH0udx3PikbivD",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.495019572404132,
+        "Longitude": -44.56963162242041,
+        "Altitude": 405
+      }
+    },
+    {
+      "ATIVIDADE": "MENU-GEOPOS",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1j-B3p0oxsdM6xA7QnvfY5bHIxUwZeUUM",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.578450759278027,
+        "Longitude": -44.7023363241602,
+        "Altitude": 544
+      }
+    },
+    {
+      "ATIVIDADE": "ZEPPELIN",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1wVsEm35q2bwglGL6DBXgQ7rTy7G_L3YX",
+      "MovementType": "Orbit",
+      "OrbitRadius": 800,
+      "OrbitSpeed": -2,
+      "OrbitTilt": 20,
+      "HeightOffset": 0,
+      "EarthPosition": {
+        "Latitude": -22.57854692622479,
+        "Longitude": -44.70230219775426,
+        "Altitude": 1000
+      }
+    },
+    {
+      "ATIVIDADE": "ESFERAS",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1OKqgYNZOv7IcmuF-gAXeQVrfaqOZ4BDz",
+      "MovementType": "Static",
+      "EarthPosition": {
+        "Latitude": -22.580789449721667,
+        "Longitude": -44.696006171792014,
+        "Altitude": 600
+      }
+    },
+    {
+      "ATIVIDADE": "CAROBA-1",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1_zoNjWUt-wfgLJamrMmPZfPWeU-KeTe9",
+      "EarthPosition": {
+        "Latitude": -22.50438767837458,
+        "Longitude": -44.62080168227499,
+        "Altitude": 446
+      }
+    },
+    {
+      "ATIVIDADE": "CAROBA-2",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1UExla47aoQzgUOtqJLx9kdPT9t4iEipg",
+      "EarthPosition": {
+        "Latitude": -22.492270923282252,
+        "Longitude": -44.65465451524812,
+        "Altitude": 465
+      }
+    },
+    {
+      "ATIVIDADE": "CAROBA-3",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1AoSafCDyr4LbnzZgl-xG6adOWDMoDf3Y",
+      "EarthPosition": {
+        "Latitude": -22.50916093154709,
+        "Longitude": -44.68648006953488,
+        "Altitude": 487
+      }
+    },
+    {
+      "ATIVIDADE": "TIRA CHAPEU",
+      "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1U3DrXP_MKptDXcSJ-RTo3dNF5-DOeGS9",
+      "EarthPosition": {
+        "Latitude": -22.530726101828314,
+        "Longitude": -44.750584496325175,
+        "Altitude": 476
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+   "Objects": [
+       {
+           "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1SGT7E0DO_6Vvn9FBiiMYYThabrlY9XLZ",
+           "ATIVIDADE": "Passa Quatro-1",
+           "EarthPosition": {
+               "Latitude": -22.39032170570205,
+               "Longitude": -44.96611928555073,
+               "Altitude": 922
+           }
+       },
+       {
+           "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1uDqF2ANlIpTII6P7aZ_VxZF-yu9H96Xw",
+           "ATIVIDADE": "Passa Quatro-2",
+           "EarthPosition": {
+               "Latitude": -22.390073232718276,
+               "Longitude": -44.96607542715245,
+               "Altitude": 922
+           }
+       },
+       {
+           "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1AguXGZs1g_lZ2VT4CptWhP0frbPk5hMq",
+           "ATIVIDADE": "Passa Quatro-3",
+           "EarthPosition": {
+               "Latitude": -22.390080605810244,
+               "Longitude": -44.96628833974049,
+               "Altitude": 922
+           }
+       }
+   ]
+}
