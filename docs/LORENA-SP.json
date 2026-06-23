@@ -1,0 +1,70 @@
+{
+   "Objects": 
+   [
+        
+       {
+         "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1Z9BJ3bdIAsnZuXlvqiwQ4lV3QaTvXQQn",
+         "ATIVIDADE": "CAMERA",
+         "EarthPosition": 
+         {
+            "Latitude":-22.737929285067075, 
+            "Longitude": -45.112018730631746,
+            "Altitude": 536
+         }
+        },
+         {
+         "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1iQHdlZs15SSizxOAhC9xg8QVawYn8xnQ",
+         "ATIVIDADE": "LORENA-1",
+         "EarthPosition": 
+         {
+            "Latitude":-22.737764780315413, 
+            "Longitude":-45.112154852734584,
+            "Altitude": 536
+         }
+        },
+        {
+         "AssetBundleURL": "https://drive.google.com/uc?export=download&id=18qCeAWZr7WSzGxEU-E70l_CA2KXZdKFM",
+         "ATIVIDADE": "LORENA-2",
+         "EarthPosition": 
+         {
+            "Latitude":-22.737796320715468, 
+            "Longitude":-45.11210254966059,
+            "Altitude": 536
+         }
+        },
+        {
+         "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1XUQLNExLDkYsU_-Rv4dJJYngR1cZ6EJH",
+         "ATIVIDADE": "LORENA-3",
+         "EarthPosition": 
+         {
+            "Latitude":-22.73786620432104, 
+            "Longitude":-45.112055611004436,
+            "Altitude": 536
+         }
+        },
+        {
+         "AssetBundleURL": "https://drive.google.com/uc?export=download&id=1o2xZqA76PZqeiEKc8h2oWtz3gVbY6TPo",
+         "ATIVIDADE": "LORENA-4",
+         "EarthPosition": 
+         {
+            "Latitude":-22.737929285067075, 
+            "Longitude": -45.112018730631746,
+            "Altitude": 536
+        }
+
+         
+         
+         
+         
+         
+         
+         
+         
+         
+       }
+      
+      
+      
+
+   ]
+}
